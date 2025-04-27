@@ -2,7 +2,7 @@
 
 
 ######Load the packages########
-setwd("")
+setwd("/Users/pey25guu/github_repos/palaeoecology")
 library(bipartite)
 library(picante)
 library(googlesheets)
@@ -47,14 +47,14 @@ Bins <- F
       bin_l <- 0.5
 
 
-occ <- read.xlsx("")
+occ <- read.xlsx("occ data Blanco et al. 2021.xlsx")
 
-sites <- read.xlsx("")
+sites <- read.xlsx("/Users/pey25guu/github_repos/palaeoecology/abd5110_blanco_data-file-s1.xlsx", 1)
 
-fdata <- read.xlsx("")
+fdata <- read.xlsx("/Users/pey25guu/github_repos/palaeoecology/abd5110_blanco_data-file-s1.xlsx", 2)
 rownames(fdata) <- paste(fdata$genus, fdata$species, sep="_")
-fdata <- fdata[c("body_size_cat_corrected", "diet_cat","locomotion_cat")]
-names(fdata) <- c("body_size_cat", "diet", "locomotion")
+fdata <- fdata[c("body_size", "diet","locomotion")]
+names(fdata) <- c("body_size", "diet", "locomotion")
                
 
 if(Taxonomic==T){
@@ -72,7 +72,7 @@ if(MPO==T){
   ####Sampling one carnivore and 2 of 3 artiodactyl-perissodactyl-proboscidean
   
   ###Load the functional traits data
-  order_sampling <- read.xlsx("")
+  order_sampling <- read.xlsx("/Users/pey25guu/github_repos/palaeoecology/abd5110_blanco_data-file-s1.xlsx", 2)
   
   ##### Vector with the same order as occ with the names of the orders
   order_vector<- as.vector(order_sampling$order)

@@ -1,0 +1,155 @@
+from,to,weight
+Bone Cabin Quarry,Giant ground dwelling browser,1
+Bone Cabin Quarry,Giant ground dwelling grazer,3
+Bone Cabin Quarry,Large ground dwelling grazer,2
+Bone Cabin Quarry,Large ground dwelling hypercarnivore,1
+Bone Cabin Quarry,Medium ground dwelling browser,1
+Bone Cabin Quarry,Medium ground dwelling grazer,1
+Bone Cabin Quarry,Small ground dwelling grazer,1
+Bone Cabin Quarry,Tiny ground dwelling carnivore,1
+Bone Cabin Quarry,Tiny ground dwelling omnivore,1
+Reed's Quarry 13,Giant ground dwelling browser,1
+Reed's Quarry 13,Giant ground dwelling grazer,1
+Reed's Quarry 13,Large ground dwelling grazer,1
+Reed's Quarry 13,Medium ground dwelling grazer,1
+Reed's Quarry 13,Small ground dwelling grazer,1
+Reed's Quarry 13,Tiny ground dwelling carnivore,1
+Reed's Quarry 13,Titanic ground dwelling browser,1
+Zane Quarry,Giant ground dwelling browser,1
+Zane Quarry,Giant ground dwelling grazer,2
+Zane Quarry,Large ground dwelling grazer,1
+Zane Quarry,Medium ground dwelling browser,1
+Zane Quarry,Medium ground dwelling carnivore ,1
+Howe Quarry,Giant ground dwelling browser,1
+Howe Quarry,Giant ground dwelling grazer,3
+Howe Quarry,Large ground dwelling grazer,1
+Howe Quarry,Large ground dwelling hypercarnivore,1
+Howe Quarry,Medium ground dwelling grazer,1
+Howe-Stephens Quarry,Giant ground dwelling browser,1
+Howe-Stephens Quarry,Giant ground dwelling grazer,2
+Howe-Stephens Quarry,Large ground dwelling grazer,2
+Howe-Stephens Quarry,Large ground dwelling hypercarnivore,1
+Howe-Stephens Quarry,Small ground dwelling grazer,1
+Howe-Stephens Quarry,Tiny ground dwelling grazer,1
+Howe-Stephens Quarry,Titanic ground dwelling browser,1
+Poison Creek Quarry,Giant ground dwelling browser,1
+Poison Creek Quarry,Giant ground dwelling grazer,3
+Poison Creek Quarry,Large ground dwelling grazer,1
+Poison Creek Quarry,Large ground dwelling hypercarnivore,1
+Poison Creek Quarry,Medium ground dwelling grazer,1
+Little Houston Quarry,Giant ground dwelling browser,1
+Little Houston Quarry,Giant ground dwelling grazer,2
+Little Houston Quarry,Large ground dwelling hypercarnivore,1
+Little Houston Quarry,Medium ground dwelling grazer,1
+Little Houston Quarry,Small ground dwelling grazer,1
+Little Houston Quarry,Tiny ground dwelling grazer,1
+Marsh-Felch Quarry,Giant ground dwelling browser,1
+Marsh-Felch Quarry,Giant ground dwelling grazer,3
+Marsh-Felch Quarry,Large ground dwelling grazer,1
+Marsh-Felch Quarry,Large ground dwelling hypercarnivore,1
+Marsh-Felch Quarry,Medium ground dwelling grazer,1
+Marsh-Felch Quarry,Medium ground dwelling hypercarnivore,1
+Marsh-Felch Quarry,Small ground dwelling carnivore,1
+Marsh-Felch Quarry,Small ground dwelling grazer,1
+Marsh-Felch Quarry,Tiny ground dwelling carnivore,1
+Marsh-Felch Quarry,Tiny ground dwelling grazer,1
+Marsh-Felch Quarry,Titanic ground dwelling browser,1
+Small Quarry,Giant ground dwelling browser,1
+Small Quarry,Giant ground dwelling grazer,1
+Small Quarry,Large ground dwelling grazer,1
+Small Quarry,Medium ground dwelling browser,1
+Small Quarry,Small ground dwelling grazer,1
+Small Quarry,Small ground dwelling omnivore,1
+Dry Mesa Quarry,Giant ground dwelling browser,1
+Dry Mesa Quarry,Giant ground dwelling grazer,2
+Dry Mesa Quarry,Large ground dwelling carnivore,1
+Dry Mesa Quarry,Large ground dwelling grazer,1
+Dry Mesa Quarry,Large ground dwelling hypercarnivore,1
+Dry Mesa Quarry,Medium ground dwelling browser,1
+Dry Mesa Quarry,Medium ground dwelling grazer,1
+Dry Mesa Quarry,Medium ground dwelling hypercarnivore,1
+Dry Mesa Quarry,Small ground dwelling carnivore,1
+Dry Mesa Quarry,Small ground dwelling grazer,1
+Dry Mesa Quarry,Tiny ground dwelling carnivore,1
+Dry Mesa Quarry,Tiny ground dwelling omnivore,1
+Dry Mesa Quarry,Titanic ground dwelling browser,1
+Dry Mesa Quarry,Titanic ground dwelling grazer,1
+FPA General,Giant ground dwelling browser,1
+FPA General,Giant ground dwelling grazer,2
+FPA General,Large ground dwelling grazer,1
+FPA General,Tiny ground dwelling carnivore,1
+FPA General,Titanic ground dwelling browser,1
+Mygatt-Moore Quarry,Giant ground dwelling browser,1
+Mygatt-Moore Quarry,Giant ground dwelling grazer,2
+Mygatt-Moore Quarry,Large ground dwelling hypercarnivore,1
+Mygatt-Moore Quarry,Medium ground dwelling browser,1
+Mygatt-Moore Quarry,Medium ground dwelling hypercarnivore,1
+Mygatt-Moore Quarry,Tiny ground dwelling grazer,1
+Hanksville-Burpee Quarry,Giant ground dwelling browser,1
+Hanksville-Burpee Quarry,Giant ground dwelling grazer,2
+Hanksville-Burpee Quarry,Large ground dwelling hypercarnivore,1
+Hanksville-Burpee Quarry,Medium ground dwelling browser,1
+Hanksville-Burpee Quarry,Small ground dwelling grazer,1
+Nail Quarry,Giant ground dwelling browser,1
+Nail Quarry,Giant ground dwelling grazer,2
+Nail Quarry,Large ground dwelling carnivore,1
+Nail Quarry,Large ground dwelling grazer,1
+Nail Quarry,Large ground dwelling hypercarnivore,1
+Nail Quarry,Titanic ground dwelling browser,1
+Reed's Quarry 8,Giant ground dwelling browser,1
+Reed's Quarry 8,Giant ground dwelling grazer,1
+Reed's Quarry 8,Large ground dwelling grazer,1
+Reed's Quarry 8,Large ground dwelling hypercarnivore,1
+Reed's Quarry 8,Tiny ground dwelling carnivore,1
+Stovall Quarry 1,Giant ground dwelling browser,1
+Stovall Quarry 1,Giant ground dwelling grazer,1
+Stovall Quarry 1,Large ground dwelling grazer,1
+Stovall Quarry 1,Large ground dwelling hypercarnivore,1
+Stovall Quarry 1,Medium ground dwelling grazer,1
+Stovall Quarry 1,Titanic ground dwelling browser,1
+Cleveland-Lloyd Quarry,Giant ground dwelling browser,1
+Cleveland-Lloyd Quarry,Giant ground dwelling grazer,2
+Cleveland-Lloyd Quarry,Large ground dwelling carnivore,1
+Cleveland-Lloyd Quarry,Large ground dwelling grazer,1
+Cleveland-Lloyd Quarry,Large ground dwelling hypercarnivore,1
+Cleveland-Lloyd Quarry,Medium ground dwelling grazer,1
+Cleveland-Lloyd Quarry,Medium ground dwelling hypercarnivore,1
+Cleveland-Lloyd Quarry,Small ground dwelling carnivore,2
+Dinosaur National Monument Quarry,Giant ground dwelling browser,1
+Dinosaur National Monument Quarry,Giant ground dwelling grazer,4
+Dinosaur National Monument Quarry,Large ground dwelling carnivore,1
+Dinosaur National Monument Quarry,Large ground dwelling grazer,1
+Dinosaur National Monument Quarry,Large ground dwelling hypercarnivore,1
+Dinosaur National Monument Quarry,Medium ground dwelling grazer,1
+Dinosaur National Monument Quarry,Medium ground dwelling hypercarnivore,1
+Dinosaur National Monument Quarry,Small ground dwelling grazer,1
+Reed's Quarry 9,Giant ground dwelling browser,1
+Reed's Quarry 9,Large ground dwelling grazer,1
+Reed's Quarry 9,Large ground dwelling hypercarnivore,1
+Reed's Quarry 9,Medium ground dwelling grazer,1
+Reed's Quarry 9,Small ground dwelling grazer,1
+Reed's Quarry 9,Tiny ground dwelling carnivore,1
+Reed's Quarry 9,Tiny ground dwelling grazer,1
+Reed's Quarry 5,Giant ground dwelling browser,1
+Reed's Quarry 5,Giant ground dwelling grazer,1
+Reed's Quarry 5,Medium ground dwelling carnivore,1
+Reed's Quarry 5,Medium ground dwelling grazer,1
+Reed's Quarry 5,Small ground dwelling grazer,1
+Reed's Quarry 12,Giant ground dwelling browser,1
+Reed's Quarry 12,Giant ground dwelling grazer,1
+Reed's Quarry 12,Large ground dwelling grazer,1
+Reed's Quarry 12,Large ground dwelling hypercarnivore,1
+Reed's Quarry 12,Small ground dwelling carnivore,1
+Reed's Quarry 12,Tiny ground dwelling carnivore,1
+Cope's Nipple,Giant ground dwelling grazer,1
+Cope's Nipple,Large ground dwelling grazer,1
+Cope's Nipple,Large ground dwelling hypercarnivore,1
+Cope's Nipple,Titantic ground dwelling browser,1
+Cope's Nipple,Titantic ground dwelling grazer,1
+Rainbow Park Locality 94,Giant ground dwelling browser,1
+Rainbow Park Locality 94,Giant ground dwelling grazer,1
+Rainbow Park Locality 94,Large ground dwelling grazer,1
+Rainbow Park Locality 94,Large ground dwelling hypercarnivore,1
+Rainbow Park Locality 94,Medium ground dwelling grazer,1
+Rainbow Park Locality 94,Small ground dwelling grazer,1
+Rainbow Park Locality 94,Tiny ground dwelling omnivore,1
