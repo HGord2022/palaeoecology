@@ -1,0 +1,156 @@
+from,to,weight
+Bone Cabin Quarry,class 10non-selective grazergraviportal,1
+Bone Cabin Quarry,class 11non-selective browserGraviportal,1
+Bone Cabin Quarry,class 11non-selective grazergraviportal,1
+Bone Cabin Quarry,class 11non-selective mixed feedergraviportal,2
+Bone Cabin Quarry,class 13non-selective grazerGraviportal,1
+Bone Cabin Quarry,class 1omnivorecursorial,1
+Bone Cabin Quarry,class 2carnivorecursorial,1
+Bone Cabin Quarry,class 4non-selective grazercursorial,1
+Bone Cabin Quarry,class 6selective browsergraviportal,1
+Bone Cabin Quarry,class 7non-selective mixed feedersub-cursorial,1
+Bone Cabin Quarry,class 8hypercarnivoreSub-Cursorial,1
+Cleveland-Lloyd Quarry,class 10non-selective grazergraviportal,1
+Cleveland-Lloyd Quarry,class 11non-selective browserGraviportal,1
+Cleveland-Lloyd Quarry,class 11non-selective mixed feedergraviportal,2
+Cleveland-Lloyd Quarry,class 3carnivorecursorial,1
+Cleveland-Lloyd Quarry,class 4carnivoresub-cursorial,1
+Cleveland-Lloyd Quarry,class 6carnivoresub-cursorial,1
+Cleveland-Lloyd Quarry,class 7non-selective mixed feedersub-cursorial,1
+Cleveland-Lloyd Quarry,class 8carnivoresub-cursorial,1
+Cleveland-Lloyd Quarry,class 8hypercarnivoreSub-Cursorial,1
+Cope's Nipple,class 10non-selective grazergraviportal,1
+Cope's Nipple,class 11non-selective browserGraviportal,1
+Cope's Nipple,class 13non-selective grazerGraviportal,1
+Cope's Nipple,class 15grazergraviportal,1
+Cope's Nipple,class 8hypercarnivoreSub-Cursorial,1
+Dinosaur National Monument Quarry,class 10non-selective grazergraviportal,1
+Dinosaur National Monument Quarry,class 11grazergraviportal,1
+Dinosaur National Monument Quarry,class 11non-selective browserGraviportal,1
+Dinosaur National Monument Quarry,class 11non-selective mixed feedergraviportal,2
+Dinosaur National Monument Quarry,class 13non-selective grazerGraviportal,1
+Dinosaur National Monument Quarry,class 4non-selective grazercursorial,1
+Dinosaur National Monument Quarry,class 6carnivoresub-cursorial,1
+Dinosaur National Monument Quarry,class 7non-selective mixed feedersub-cursorial,1
+Dinosaur National Monument Quarry,class 8carnivoresub-cursorial,1
+Dinosaur National Monument Quarry,class 8hypercarnivoreSub-Cursorial,1
+Dry Mesa Quarry,class 10non-selective grazergraviportal,1
+Dry Mesa Quarry,class 11non-selective browserGraviportal,1
+Dry Mesa Quarry,class 11non-selective mixed feedergraviportal,1
+Dry Mesa Quarry,class 13non-selective grazerGraviportal,1
+Dry Mesa Quarry,class 14non-selective mixed feedergraviportal,1
+Dry Mesa Quarry,class 15non-selective browsergraviportal,1
+Dry Mesa Quarry,class 1omnivorecursorial,1
+Dry Mesa Quarry,class 2carnivorecursorial,1
+Dry Mesa Quarry,class 4carnivoresub-cursorial,1
+Dry Mesa Quarry,class 4non-selective grazercursorial,1
+Dry Mesa Quarry,class 6carnivoresub-cursorial,1
+Dry Mesa Quarry,class 6selective browsergraviportal,1
+Dry Mesa Quarry,class 7non-selective mixed feedersub-cursorial,1
+Dry Mesa Quarry,class 8carnivoresub-cursorial,1
+Dry Mesa Quarry,class 8hypercarnivoreSub-Cursorial,1
+FPA General,class 10non-selective grazergraviportal,1
+FPA General,class 11non-selective browserGraviportal,1
+FPA General,class 11non-selective mixed feedergraviportal,1
+FPA General,class 13non-selective grazerGraviportal,1
+FPA General,class 15non-selective browsergraviportal,1
+FPA General,class 2carnivorecursorial,1
+Hanksville-Burpee Quarry,class 11non-selective browserGraviportal,1
+Hanksville-Burpee Quarry,class 11non-selective mixed feedergraviportal,1
+Hanksville-Burpee Quarry,class 13non-selective grazerGraviportal,1
+Hanksville-Burpee Quarry,class 4non-selective grazercursorial,1
+Hanksville-Burpee Quarry,class 6selective browsermediportal,1
+Hanksville-Burpee Quarry,class 8hypercarnivoreSub-Cursorial,1
+Howe Quarry,class 11non-selective browserGraviportal,1
+Howe Quarry,class 11non-selective grazergraviportal,1
+Howe Quarry,class 11non-selective mixed feedergraviportal,2
+Howe Quarry,class 13non-selective grazerGraviportal,1
+Howe Quarry,class 7non-selective mixed feedersub-cursorial,1
+Howe Quarry,class 8hypercarnivoreSub-Cursorial,1
+Howe-Stephens Quarry,class 10non-selective grazergraviportal,1
+Howe-Stephens Quarry,class 11non-selective browserGraviportal,1
+Howe-Stephens Quarry,class 11non-selective mixed feedergraviportal,2
+Howe-Stephens Quarry,class 15non-selective browsergraviportal,1
+Howe-Stephens Quarry,class 1non-selective grazercursorial,1
+Howe-Stephens Quarry,class 4non-selective grazercursorial,1
+Howe-Stephens Quarry,class 8hypercarnivoreSub-Cursorial,1
+Howe-Stephens Quarry,class 9non-selective grazergraviportal,1
+Little Houston Quarry,class 11grazergraviportal,1
+Little Houston Quarry,class 11non-selective browserGraviportal,1
+Little Houston Quarry,class 13non-selective grazerGraviportal,1
+Little Houston Quarry,class 1non-selective grazercursorial,1
+Little Houston Quarry,class 4non-selective grazercursorial,1
+Little Houston Quarry,class 7non-selective mixed feedersub-cursorial,1
+Little Houston Quarry,class 8hypercarnivoreSub-Cursorial,1
+Marsh-Felch Quarry,class 10non-selective grazergraviportal,1
+Marsh-Felch Quarry,class 11grazergraviportal,1
+Marsh-Felch Quarry,class 11non-selective browserGraviportal,1
+Marsh-Felch Quarry,class 11non-selective mixed feedergraviportal,1
+Marsh-Felch Quarry,class 13non-selective grazerGraviportal,1
+Marsh-Felch Quarry,class 15non-selective browsergraviportal,1
+Marsh-Felch Quarry,class 1non-selective grazercursorial,1
+Marsh-Felch Quarry,class 1omnivorecursorial,1
+Marsh-Felch Quarry,class 2carnivorecursorial,1
+Marsh-Felch Quarry,class 4non-selective grazercursorial,1
+Marsh-Felch Quarry,class 6carnivoresub-cursorial,1
+Marsh-Felch Quarry,class 7non-selective mixed feedersub-cursorial,1
+Marsh-Felch Quarry,class 8hypercarnivoreSub-Cursorial,1
+Mygatt-Moore Quarry,class 11non-selective browserGraviportal,1
+Mygatt-Moore Quarry,class 11non-selective mixed feedergraviportal,1
+Mygatt-Moore Quarry,class 13non-selective grazerGraviportal,1
+Mygatt-Moore Quarry,class 1non-selective grazercursorial,1
+Mygatt-Moore Quarry,class 6carnivoresub-cursorial,1
+Mygatt-Moore Quarry,class 6selective browsermediportal,1
+Mygatt-Moore Quarry,class 8hypercarnivoreSub-Cursorial,1
+Nail Quarry,class 10non-selective grazergraviportal,1
+Nail Quarry,class 11non-selective browserGraviportal,1
+Nail Quarry,class 11non-selective mixed feedergraviportal,1
+Nail Quarry,class 12non-selective grazergraviportal,1
+Nail Quarry,class 15non-selective browsergraviportal,1
+Nail Quarry,class 8carnivoresub-cursorial,1
+Nail Quarry,class 8hypercarnivoreSub-Cursorial,1
+Poison Creek Quarry,class 10non-selective grazergraviportal,1
+Poison Creek Quarry,class 11grazergraviportal,1
+Poison Creek Quarry,class 11non-selective browserGraviportal,1
+Poison Creek Quarry,class 11non-selective mixed feedergraviportal,1
+Poison Creek Quarry,class 13non-selective grazerGraviportal,1
+Poison Creek Quarry,class 7non-selective mixed feedersub-cursorial,1
+Poison Creek Quarry,class 8hypercarnivoreSub-Cursorial,1
+Rainbow Park Locality 94,class 10non-selective grazergraviportal,1
+Rainbow Park Locality 94,class 11non-selective browserGraviportal,1
+Rainbow Park Locality 94,class 11non-selective mixed feedergraviportal,1
+Rainbow Park Locality 94,class 1omnivorecursorial,1
+Rainbow Park Locality 94,class 4non-selective grazercursorial,1
+Rainbow Park Locality 94,class 7non-selective mixed feedersub-cursorial,1
+Rainbow Park Locality 94,class 8hypercarnivoreSub-Cursorial,1
+Reed's Quarry 12,class 10non-selective grazergraviportal,1
+Reed's Quarry 12,class 11non-selective browserGraviportal,1
+Reed's Quarry 12,class 11non-selective mixed feedergraviportal,1
+Reed's Quarry 12,class 2carnivorecursorial,1
+Reed's Quarry 12,class 2carnivoresub-cursorial,1
+Reed's Quarry 12,class 8hypercarnivoreSub-Cursorial,1
+Reed's Quarry 13,class 10non-selective grazergraviportal,1
+Reed's Quarry 13,class 11non-selective browserGraviportal,1
+Reed's Quarry 13,class 11non-selective mixed feedergraviportal,1
+Reed's Quarry 13,class 15non-selective browsergraviportal,1
+Reed's Quarry 13,class 2carnivorecursorial,1
+Reed's Quarry 13,class 4non-selective grazercursorial,1
+Reed's Quarry 13,class 7non-selective mixed feedersub-cursorial,1
+Reed's Quarry 8,class 10non-selective grazergraviportal,1
+Reed's Quarry 8,class 11non-selective browserGraviportal,1
+Reed's Quarry 8,class 11non-selective mixed feedergraviportal,1
+Reed's Quarry 8,class 2carnivorecursorial,1
+Reed's Quarry 8,class 8hypercarnivoreSub-Cursorial,1
+Reed's Quarry 9,class 10non-selective grazergraviportal,1
+Reed's Quarry 9,class 11non-selective browserGraviportal,1
+Reed's Quarry 9,class 1non-selective grazercursorial,1
+Reed's Quarry 9,class 2carnivorecursorial,1
+Reed's Quarry 9,class 4non-selective grazercursorial,1
+Reed's Quarry 9,class 7non-selective mixed feedersub-cursorial,1
+Reed's Quarry 9,class 8hypercarnivoreSub-Cursorial,1
+Stovall Quarry 1,class 10non-selective grazergraviportal,1
+Stovall Quarry 1,class 11non-selective browserGraviportal,1
+Stovall Quarry 1,class 13non-selective grazerGraviportal,1
+Stovall Quarry 1,class 15non-selective browsergraviportal,1
+Stovall Quarry 1,class 7non-selective mixed feedersub-cursorial,1
+Stovall Quarry 1,class 8hypercarnivoreSub-Cursorial,1
