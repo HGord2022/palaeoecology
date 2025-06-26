@@ -1,161 +1,161 @@
 from,to,weight,time_foster,time_turner,time_maidment
-Bone Cabin Quarry,Allosaurus,1,Zone 2,2,6.0
-Bone Cabin Quarry,Apatosaurus,1,Zone 2,2,6.0
-Bone Cabin Quarry,Barosaurus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Camarasaurus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Camptosaurus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Coelurus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Diplodocus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Dryosaurus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Galeamopus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Gargoyleosaurus ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Ornitholestes ,1,Zone 2,2,6.0
-Bone Cabin Quarry,Stegosaurus ,1,Zone 2,2,6.0
-Cleveland-Lloyd Quarry,Allosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Barosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Camarasaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Camptosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Ceratosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Diplodocus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Marshosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Stegosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Stokesosaurus,1,Zone 5,3,4.0
-Cleveland-Lloyd Quarry,Torvosaurus,1,Zone 5,3,4.0
-Cope's Nipple,Allosaurus,1,Zone 6,4,5.0
-Cope's Nipple,Apatosaurus,1,Zone 6,4,5.0
-Cope's Nipple,Camarasaurus,1,Zone 6,4,5.0
-Cope's Nipple,Maraapunisaurus,1,Zone 6,4,5.0
-Cope's Nipple,Stegosaurus,1,Zone 6,4,5.0
-Dinosaur National Monument Quarry,Allosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Apatosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Barosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Camarasaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Camptosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Ceratosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Diplodocus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Dryosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Haplocanthosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Stegosaurus,1,Zone 5,3,4.0
-Dinosaur National Monument Quarry,Torvosaurus,1,Zone 5,3,4.0
-Dry Mesa Quarry,Allosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Apatosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Brachiosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Camarasaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Camptosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Ceratosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Coelurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Diplodocus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Dryosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Gargoyleosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Marshosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Stegosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Supersaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Torvosaurus,1,Zone 4,2,4.0
-Dry Mesa Quarry,Ornitholestes,1,Zone 4,2,4.0
-FPA General,Apatosaurus,1,Zone 4,na,4.0
-FPA General,Brachiosaurus,1,Zone 4,na,4.0
-FPA General,Camarasaurus,1,Zone 4,na,4.0
-FPA General,Diplodocus,1,Zone 4,na,4.0
-FPA General,Stegosaurus,1,Zone 4,na,4.0
-FPA General,coelurosaur indeterminate,1,Zone 4,na,4.0
-Hanksville-Burpee Quarry,Allosaurus ,1,Zone 4,2,4.0
-Hanksville-Burpee Quarry,Apatosaurus,1,Zone 4,2,4.0
-Hanksville-Burpee Quarry,Camarasaurus ,1,Zone 4,2,4.0
-Hanksville-Burpee Quarry,Diplodocus ,1,Zone 4,2,4.0
-Hanksville-Burpee Quarry,Dryosaurus ,1,Zone 4,2,4.0
-Hanksville-Burpee Quarry,Mymoorapelta ,1,Zone 4,2,4.0
-Howe Quarry,Allosaurus ,1,Zone 2,2,5.0
+Bone Cabin Quarry,Allosaurus,1,2,2,6
+Bone Cabin Quarry,Apatosaurus,1,2,2,6
+Bone Cabin Quarry,Barosaurus ,1,2,2,6
+Bone Cabin Quarry,Camarasaurus ,1,2,2,6
+Bone Cabin Quarry,Camptosaurus ,1,2,2,6
+Bone Cabin Quarry,Coelurus ,1,2,2,6
+Bone Cabin Quarry,Diplodocus ,1,2,2,6
+Bone Cabin Quarry,Dryosaurus ,1,2,2,6
+Bone Cabin Quarry,Galeamopus ,1,2,2,6
+Bone Cabin Quarry,Gargoyleosaurus ,1,2,2,6
+Bone Cabin Quarry,Ornitholestes ,1,2,2,6
+Bone Cabin Quarry,Stegosaurus ,1,2,2,6
+Cleveland-Lloyd Quarry,Allosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Barosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Camarasaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Camptosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Ceratosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Diplodocus,1,5,3,4
+Cleveland-Lloyd Quarry,Marshosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Stegosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Stokesosaurus,1,5,3,4
+Cleveland-Lloyd Quarry,Torvosaurus,1,5,3,4
+Cope's Nipple,Allosaurus,1,6,4,5
+Cope's Nipple,Apatosaurus,1,6,4,5
+Cope's Nipple,Camarasaurus,1,6,4,5
+Cope's Nipple,Maraapunisaurus,1,6,4,5
+Cope's Nipple,Stegosaurus,1,6,4,5
+Dinosaur National Monument Quarry,Allosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Apatosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Barosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Camarasaurus,1,5,3,4
+Dinosaur National Monument Quarry,Camptosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Ceratosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Diplodocus,1,5,3,4
+Dinosaur National Monument Quarry,Dryosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Haplocanthosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Stegosaurus,1,5,3,4
+Dinosaur National Monument Quarry,Torvosaurus,1,5,3,4
+Dry Mesa Quarry,Allosaurus,1,4,2,4
+Dry Mesa Quarry,Apatosaurus,1,4,2,4
+Dry Mesa Quarry,Brachiosaurus,1,4,2,4
+Dry Mesa Quarry,Camarasaurus,1,4,2,4
+Dry Mesa Quarry,Camptosaurus,1,4,2,4
+Dry Mesa Quarry,Ceratosaurus,1,4,2,4
+Dry Mesa Quarry,Coelurus,1,4,2,4
+Dry Mesa Quarry,Diplodocus,1,4,2,4
+Dry Mesa Quarry,Dryosaurus,1,4,2,4
+Dry Mesa Quarry,Gargoyleosaurus,1,4,2,4
+Dry Mesa Quarry,Marshosaurus,1,4,2,4
+Dry Mesa Quarry,Stegosaurus,1,4,2,4
+Dry Mesa Quarry,Supersaurus,1,4,2,4
+Dry Mesa Quarry,Torvosaurus,1,4,2,4
+Dry Mesa Quarry,Ornitholestes,1,4,2,4
+FPA General,Apatosaurus,1,4,na,4
+FPA General,Brachiosaurus,1,4,na,4
+FPA General,Camarasaurus,1,4,na,4
+FPA General,Diplodocus,1,4,na,4
+FPA General,Stegosaurus,1,4,na,4
+FPA General,coelurosaur indeterminate,1,4,na,4
+Hanksville-Burpee Quarry,Allosaurus ,1,4,2,4
+Hanksville-Burpee Quarry,Apatosaurus,1,4,2,4
+Hanksville-Burpee Quarry,Camarasaurus ,1,4,2,4
+Hanksville-Burpee Quarry,Diplodocus ,1,4,2,4
+Hanksville-Burpee Quarry,Dryosaurus ,1,4,2,4
+Hanksville-Burpee Quarry,Mymoorapelta ,1,4,2,4
+Howe Quarry,Allosaurus ,1,2,2,5
 Howe Quarry (Brown's Historic),Apatosaurus ,1,,,
 Howe Quarry (Brown's Historic),Barosaurus ,1,,,
 Howe Quarry (Brown's Historic),Camarasaurus ,1,,,
 Howe Quarry (Brown's Historic),Camptosaurus ,1,,,
 Howe Quarry (Brown's Historic),Diplodocus ,1,,,
 Howe Quarry (Brown's Historic),Kaatedocus ,1,,,
-Howe-Stephens Quarry,Allosaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Barosaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Camarasaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Diplodocus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Dryosaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Hesperosaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Nanosaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Stegosaurus ,1,Zone 2,na,5.0
-Howe-Stephens Quarry,Brachiosaurus ,1,Zone 2,na,5.0
-Little Houston Quarry,Allosaurus ,1,Zone 2,2,6.0
-Little Houston Quarry,Apatosaurus ,1,Zone 2,2,6.0
-Little Houston Quarry,Camarasaurus ,1,Zone 2,2,6.0
-Little Houston Quarry,Camptosaurus ,1,Zone 2,2,6.0
-Little Houston Quarry,Dryosaurus ,1,Zone 2,2,6.0
-Little Houston Quarry,Nanosaurus ,1,Zone 2,2,6.0
-Little Houston Quarry,Diplodocinae indeterminate,1,Zone 2,2,6.0
-Marsh-Felch Quarry,"""Elaphrosaurus""",1,Zone 3,2,3.0
-Marsh-Felch Quarry,Allosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Apatosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Brachiosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Camarasaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Camptosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Ceratosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Coelurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Diplodocus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Dryosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Haplocanthosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Nanosaurus,1,Zone 3,2,3.0
-Marsh-Felch Quarry,Stegosaurus,1,Zone 3,2,3.0
-Mygatt-Moore Quarry,Allosaurus,1,Zone 4,3,4.0
-Mygatt-Moore Quarry,Apatosaurus,1,Zone 4,3,4.0
-Mygatt-Moore Quarry,Camarasaurus,1,Zone 4,3,4.0
-Mygatt-Moore Quarry,Ceratosaurus,1,Zone 4,3,4.0
-Mygatt-Moore Quarry,Diplodocus,1,Zone 4,3,4.0
-Mygatt-Moore Quarry,Mymoorapelta,1,Zone 4,3,4.0
-Mygatt-Moore Quarry,Nanosaurus,1,Zone 4,3,4.0
-Nail Quarry,Allosaurus ,1,Zone 4,2,6.0
-Nail Quarry,Brontosaurus ,1,Zone 4,2,6.0
-Nail Quarry,Camarasaurus ,1,Zone 4,2,6.0
-Nail Quarry,Diplodocus ,1,Zone 4,2,6.0
-Nail Quarry,Stegosaurus ,1,Zone 4,2,6.0
-Nail Quarry,Torvosaurus,1,Zone 4,2,6.0
-Nail Quarry,Brachiosaurus ,1,Zone 4,2,6.0
-Poison Creek Quarry,Allosaurus ,1,Zone 2,2,5.0
-Poison Creek Quarry,Apatosaurus ,1,Zone 2,2,5.0
-Poison Creek Quarry,Camarasaurus,1,Zone 2,2,5.0
-Poison Creek Quarry,Camptosaurus ,1,Zone 2,2,5.0
-Poison Creek Quarry,Diplodocus ,1,Zone 2,2,5.0
-Poison Creek Quarry,Haplocanthosaurus ,1,Zone 2,2,5.0
-Poison Creek Quarry,Stegosaurus ,1,Zone 2,2,5.0
-Rainbow Park Locality 94,Allosaurus ,1,Zone 6,4,5.0
-Rainbow Park Locality 94,Camarasaurus ,1,Zone 6,4,5.0
-Rainbow Park Locality 94,Camptosaurus ,1,Zone 6,4,5.0
-Rainbow Park Locality 94,Diplodocus ,1,Zone 6,4,5.0
-Rainbow Park Locality 94,Dryosaurus ,1,Zone 6,4,5.0
-Rainbow Park Locality 94,Koparion ,1,Zone 6,4,5.0
-Rainbow Park Locality 94,Stegosaurus,1,Zone 6,4,5.0
-Reed's Quarry 12,Allosaurus ,1,Zone 5,3,6.0
-Reed's Quarry 12,Camarasaurus ,1,Zone 5,3,6.0
-Reed's Quarry 12,Coelurus ,1,Zone 5,3,6.0
-Reed's Quarry 12,Diplodocus ,1,Zone 5,3,6.0
-Reed's Quarry 12,Fosterovenator ,1,Zone 5,3,6.0
-Reed's Quarry 12,Stegosaurus ,1,Zone 5,3,6.0
-Reed's Quarry 13,Camarasaurus ,1,Zone 2,2,5.0
-Reed's Quarry 13,Camptosaurus,1,Zone 2,2,5.0
-Reed's Quarry 13,Coelurus ,1,Zone 2,2,5.0
-Reed's Quarry 13,Diplodocus ,1,Zone 2,2,5.0
-Reed's Quarry 13,Dryosaurus ,1,Zone 2,2,5.0
-Reed's Quarry 13,Stegosaurus ,1,Zone 2,2,5.0
-Reed's Quarry 13,Brachiosaurus ,1,Zone 2,2,5.0
-Reed's Quarry 8,Allosaurus ,1,Zone 4,3,6.0
-Reed's Quarry 8,Camarasaurus ,1,Zone 4,3,6.0
-Reed's Quarry 8,Coelurus ,1,Zone 4,3,6.0
-Reed's Quarry 8,Diplodocus ,1,Zone 4,3,6.0
-Reed's Quarry 8,Stegosaurus ,1,Zone 4,3,6.0
-Reed's Quarry 9,Allosaurus ,1,Zone 5,3,6.0
-Reed's Quarry 9,Camarasaurus ,1,Zone 5,3,6.0
-Reed's Quarry 9,Camptosaurus ,1,Zone 5,3,6.0
-Reed's Quarry 9,Coelurus ,1,Zone 5,3,6.0
-Reed's Quarry 9,Dryosaurus ,1,Zone 5,3,6.0
-Reed's Quarry 9,Nanosaurus ,1,Zone 5,3,6.0
-Reed's Quarry 9,Stegosaurus ,1,Zone 5,3,6.0
-Stovall Quarry 1,Allosaurus,1,Zone 5,3,5.0
-Stovall Quarry 1,Apatosaurus,1,Zone 5,3,5.0
-Stovall Quarry 1,Brachiosaurus,1,Zone 5,3,5.0
-Stovall Quarry 1,Camarasaurus,1,Zone 5,3,5.0
-Stovall Quarry 1,Camptosaurus,1,Zone 5,3,5.0
-Stovall Quarry 1,Stegosaurus,1,Zone 5,3,5.0
+Howe-Stephens Quarry,Allosaurus ,1,2,na,5
+Howe-Stephens Quarry,Barosaurus ,1,2,na,5
+Howe-Stephens Quarry,Camarasaurus ,1,2,na,5
+Howe-Stephens Quarry,Diplodocus ,1,2,na,5
+Howe-Stephens Quarry,Dryosaurus ,1,2,na,5
+Howe-Stephens Quarry,Hesperosaurus ,1,2,na,5
+Howe-Stephens Quarry,Nanosaurus ,1,2,na,5
+Howe-Stephens Quarry,Stegosaurus ,1,2,na,5
+Howe-Stephens Quarry,Brachiosaurus ,1,2,na,5
+Little Houston Quarry,Allosaurus ,1,2,2,6
+Little Houston Quarry,Apatosaurus ,1,2,2,6
+Little Houston Quarry,Camarasaurus ,1,2,2,6
+Little Houston Quarry,Camptosaurus ,1,2,2,6
+Little Houston Quarry,Dryosaurus ,1,2,2,6
+Little Houston Quarry,Nanosaurus ,1,2,2,6
+Little Houston Quarry,Diplodocinae indeterminate,1,2,2,6
+Marsh-Felch Quarry,"""Elaphrosaurus""",1,3,2,3
+Marsh-Felch Quarry,Allosaurus,1,3,2,3
+Marsh-Felch Quarry,Apatosaurus,1,3,2,3
+Marsh-Felch Quarry,Brachiosaurus,1,3,2,3
+Marsh-Felch Quarry,Camarasaurus,1,3,2,3
+Marsh-Felch Quarry,Camptosaurus,1,3,2,3
+Marsh-Felch Quarry,Ceratosaurus,1,3,2,3
+Marsh-Felch Quarry,Coelurus,1,3,2,3
+Marsh-Felch Quarry,Diplodocus,1,3,2,3
+Marsh-Felch Quarry,Dryosaurus,1,3,2,3
+Marsh-Felch Quarry,Haplocanthosaurus,1,3,2,3
+Marsh-Felch Quarry,Nanosaurus,1,3,2,3
+Marsh-Felch Quarry,Stegosaurus,1,3,2,3
+Mygatt-Moore Quarry,Allosaurus,1,4,3,4
+Mygatt-Moore Quarry,Apatosaurus,1,4,3,4
+Mygatt-Moore Quarry,Camarasaurus,1,4,3,4
+Mygatt-Moore Quarry,Ceratosaurus,1,4,3,4
+Mygatt-Moore Quarry,Diplodocus,1,4,3,4
+Mygatt-Moore Quarry,Mymoorapelta,1,4,3,4
+Mygatt-Moore Quarry,Nanosaurus,1,4,3,4
+Nail Quarry,Allosaurus ,1,4,2,6
+Nail Quarry,Brontosaurus ,1,4,2,6
+Nail Quarry,Camarasaurus ,1,4,2,6
+Nail Quarry,Diplodocus ,1,4,2,6
+Nail Quarry,Stegosaurus ,1,4,2,6
+Nail Quarry,Torvosaurus,1,4,2,6
+Nail Quarry,Brachiosaurus ,1,4,2,6
+Poison Creek Quarry,Allosaurus ,1,2,2,5
+Poison Creek Quarry,Apatosaurus ,1,2,2,5
+Poison Creek Quarry,Camarasaurus,1,2,2,5
+Poison Creek Quarry,Camptosaurus ,1,2,2,5
+Poison Creek Quarry,Diplodocus ,1,2,2,5
+Poison Creek Quarry,Haplocanthosaurus ,1,2,2,5
+Poison Creek Quarry,Stegosaurus ,1,2,2,5
+Rainbow Park Locality 94,Allosaurus ,1,6,4,5
+Rainbow Park Locality 94,Camarasaurus ,1,6,4,5
+Rainbow Park Locality 94,Camptosaurus ,1,6,4,5
+Rainbow Park Locality 94,Diplodocus ,1,6,4,5
+Rainbow Park Locality 94,Dryosaurus ,1,6,4,5
+Rainbow Park Locality 94,Koparion ,1,6,4,5
+Rainbow Park Locality 94,Stegosaurus,1,6,4,5
+Reed's Quarry 12,Allosaurus ,1,5,3,6
+Reed's Quarry 12,Camarasaurus ,1,5,3,6
+Reed's Quarry 12,Coelurus ,1,5,3,6
+Reed's Quarry 12,Diplodocus ,1,5,3,6
+Reed's Quarry 12,Fosterovenator ,1,5,3,6
+Reed's Quarry 12,Stegosaurus ,1,5,3,6
+Reed's Quarry 13,Camarasaurus ,1,2,2,5
+Reed's Quarry 13,Camptosaurus,1,2,2,5
+Reed's Quarry 13,Coelurus ,1,2,2,5
+Reed's Quarry 13,Diplodocus ,1,2,2,5
+Reed's Quarry 13,Dryosaurus ,1,2,2,5
+Reed's Quarry 13,Stegosaurus ,1,2,2,5
+Reed's Quarry 13,Brachiosaurus ,1,2,2,5
+Reed's Quarry 8,Allosaurus ,1,4,3,6
+Reed's Quarry 8,Camarasaurus ,1,4,3,6
+Reed's Quarry 8,Coelurus ,1,4,3,6
+Reed's Quarry 8,Diplodocus ,1,4,3,6
+Reed's Quarry 8,Stegosaurus ,1,4,3,6
+Reed's Quarry 9,Allosaurus ,1,5,3,6
+Reed's Quarry 9,Camarasaurus ,1,5,3,6
+Reed's Quarry 9,Camptosaurus ,1,5,3,6
+Reed's Quarry 9,Coelurus ,1,5,3,6
+Reed's Quarry 9,Dryosaurus ,1,5,3,6
+Reed's Quarry 9,Nanosaurus ,1,5,3,6
+Reed's Quarry 9,Stegosaurus ,1,5,3,6
+Stovall Quarry 1,Allosaurus,1,5,3,5
+Stovall Quarry 1,Apatosaurus,1,5,3,5
+Stovall Quarry 1,Brachiosaurus,1,5,3,5
+Stovall Quarry 1,Camarasaurus,1,5,3,5
+Stovall Quarry 1,Camptosaurus,1,5,3,5
+Stovall Quarry 1,Stegosaurus,1,5,3,5

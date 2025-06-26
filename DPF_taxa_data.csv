@@ -1,0 +1,71 @@
+from,to,weight,time
+Dyoplosaurus_acutosquameus,1a,1,1
+Euoplocephalus_tutus,1a,1,1
+Edmontonia_ rugosidens,1a,1,1
+Panoplosaurus_mirus,1a,1,1
+Centrosaurus_apertus,1a,1,1
+Chasmosaurus_russelli,1a,1,1
+Chirostenotes_pergracilis,1a,1,1
+Caenagnathus_collinsi,1a,1,1
+Citipes_elegans,1a,1,1
+Saurornitholestes_langstoni,1a,1,1
+Ornithomimus_edmontonicus,1a,1,1
+Rativates_evadens,1a,1,1
+Struthiomimus_altus,1a,1,1
+Stenonychosaurus_inequalis,1a,1,1
+Gorgosaurus _libratus,1a,1,1
+Daspletosaurus_sp. ,1a,1,1
+Corythosaurus_casuarius,1a,1,1
+Lambeosaurus_lambei,1a,1,1
+Parasaurolophus _walkeri,1a,1,1
+Gryposaurus_notabilis,1a,1,1
+Orodrominae_indet ,1a,1,1
+Euoplocephalus_tutus,1b,1,2
+Edmontonia_ rugosidens,1b,1,2
+Panoplosaurus_mirus,1b,1,2
+Centrosaurus_apertus,1b,1,2
+Unescoceratops_koppelhusae,1b,1,2
+Chasmosaurus_irvinensis,1b,1,2
+Chasmosaurus_russelli,1b,1,2
+Chirostenotes_pergracilis,1b,1,2
+Caenagnathus_collinsi,1b,1,2
+Citipes_elegans,1b,1,2
+Saurornitholestes_langstoni,1b,1,2
+cf. Qiupalong_sp.,1b,1,2
+Ornithomimus_edmontonicus,1b,1,2
+Struthiomimus_altus,1b,1,2
+Stenonychosaurus_inequalis,1b,1,2
+Gorgosaurus _libratus,1b,1,2
+Stegoceras _validum,1b,1,2
+Corythosaurus_intermedius,1b,1,2
+Lambeosaurus_clavinitalis,1b,1,2
+Lambeosaurus_lambei,1b,1,2
+Parasaurolophus _walkeri,1b,1,2
+Orodrominae_indet ,1b,1,2
+Euoplocephalus_tutus,2a,1,3
+Edmontonia_ rugosidens,2a,1,3
+Panoplosaurus_mirus,2a,1,3
+Styracosaurus _albertensis,2a,1,3
+Leptoceratops_,2a,1,3
+Chasmosaurus_belli,2a,1,3
+Chirostenotes_pergracilis,2a,1,3
+Caenagnathus_collinsi,2a,1,3
+Citipes_elegans,2a,1,3
+Hesperonychus_elizabethae,2a,1,3
+Ornithomimus_edmontonicus,2a,1,3
+Stenonychosaurus_inequalis,2a,1,3
+Gorgosaurus _libratus,2a,1,3
+Stegoceras _validum,2a,1,3
+Lambeosaurus_clavinitalis,2a,1,3
+Lambeosaurus_lambei,2a,1,3
+Prosaurolophus_maximus,2a,1,3
+Styracosaurus _albertensis,2b,1,4
+Chasmosaurus_irvinensis,2b,1,4
+Vagaceratops_irvinensis,2b,1,4
+Caenagnathus_collinsi,2b,1,4
+Citipes_elegans,2b,1,4
+Stenonychosaurus_inequalis,2b,1,4
+Gorgosaurus _libratus,2b,1,4
+Lambeosaurus_lambei,2b,1,4
+Lambeosaurus_magnicristatus,2b,1,4
+Prosaurolophus_maximus,2b,1,4
